@@ -44,9 +44,10 @@
 
 ## 🔗 Mening GitHub statistikalarim
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amirxon0108&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirxon0108&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=Amirxon0108&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=Amirxon0108&layout=compact&theme=tokyonight" height="170" />
 </p>
+
 
 ---
 
